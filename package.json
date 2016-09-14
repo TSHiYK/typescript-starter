@@ -4,6 +4,8 @@
   "description": "A starter project for TypeScript",
   "main": "index.js",
   "scripts": {
+    "postinstall": "typings install",
+    "build": "webpack --inline --colors --progress --display-error-details --display-cached",
     "test": "karma start"
   },
   "repository": {

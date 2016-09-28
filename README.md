@@ -22,6 +22,9 @@ cd typescript-starter
 # install
 npm install
 
+# browser
+npm start
+
 # build
 npm run build
 

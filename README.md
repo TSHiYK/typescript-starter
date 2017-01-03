@@ -1,4 +1,6 @@
 # typescript-starter
+[![Build Status](https://travis-ci.org/TSHiYK/typescript-starter.svg?branch=master)](https://travis-ci.org/TSHiYK/typescript-starter)
+
 A starter project for TypeScript using Webpack, Karma and Mocha.
 
 ## Stack
